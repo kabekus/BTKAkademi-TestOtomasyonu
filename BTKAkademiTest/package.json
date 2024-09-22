@@ -1,0 +1,25 @@
+{
+  "name": "btkakademitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "chromedriver": "^129.0.0",
+    "selenium-standalone": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2",
+    "webdriverio": "^6.12.1"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.6.6",
+    "puppeteer-core": "^23.4.0",
+    "ws": "^8.17.0"
+  }
+}
