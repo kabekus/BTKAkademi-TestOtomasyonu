@@ -10,19 +10,19 @@ JavaScript gibi çeşitli dillerde kullanılabilir.
 olanak tanır.
 
 #### selenium-standalone paketini projeye ekle:
-' npm install selenium-standalone --save-dev '
+`npm install selenium-standalone --save-dev`
 
 #### Selenium Standalone Server'ı kur:
-'npx selenium-standalone install' 
+`npx selenium-standalone install`
 
 #### Selenium Server'ı başlat:
-' npx selenium-standalone start ' 
+`npx selenium-standalone start` 
 
 #### CodeceptJS test framework'ünü projeye kur:
-'npm install conceptjs' 
+`npm install conceptjs`
 
 #### CodeceptJS için temel yapılandırma dosyalarını oluştur:
-'npx conceptjs init' 
+`npx conceptjs init`
 
 #### @tag ile taglenmiş seneryoyu çalıştır: 
-'npx conceptjs run --grep "@testcase1"'
+`npx conceptjs run --grep "@testcase1"`
